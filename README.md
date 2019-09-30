@@ -197,7 +197,7 @@
 - [github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.  
 - [purposefile](https://github.com/jamiebuilds/purposefile) - Make sure every file in your repo is exactly where it should be  
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript  
-- [web-build-tools](https://github.com/microsoft/web-build-tools) - A tool box for large scale web development  
+- [rushstack](https://github.com/microsoft/rushstack) - Monorepo for various projects maintained by the Rush Stack community  
 - [sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes  
 - [pack-n-play](https://github.com/google/pack-n-play) - 🚀🐢 A tool to validate your library can be consumed by other TypeScript projects.  
 - [request.js](https://github.com/octokit/request.js) - Send parameterized requests to GitHub’s APIs with sensible defaults in browsers and Node  
